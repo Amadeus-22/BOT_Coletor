@@ -1,8 +1,4 @@
-Com certeza\! Para trabalhar com outros desenvolvedores, um `README` bem detalhado é fundamental. Ele funciona como um guia para que qualquer pessoa consiga entender e contribuir para o projeto.
 
-Aqui está o conteúdo do `README` para o seu projeto, já formatado para o GitHub.
-
------
 
 ### **`README.md`**
 
